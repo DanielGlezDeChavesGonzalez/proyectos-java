@@ -86,7 +86,7 @@ public class CurrencyConversor implements ActionListener {
                         URI.create("https://api.currencylayer.com/convert?" +
                                 "access_key=5c7a3b51d400ced4bcc336ffbd809e94&" +
                                 "from="+from+"&to="+to)
-                )
+                );
                 textFieldOutput.setText(String.valueOf(resultValue));
 
             }catch (Exception exception){
