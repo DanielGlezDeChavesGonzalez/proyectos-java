@@ -1,2 +1,4 @@
 .vscode
 lib
+.idea
+CurrencyConversorApi.iml
