@@ -1,4 +1,6 @@
-.vscode
+out
+bin
 lib
 .idea
+.vscode
 CurrencyConversorApi.iml

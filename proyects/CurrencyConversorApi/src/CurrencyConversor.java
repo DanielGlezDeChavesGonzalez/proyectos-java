@@ -20,7 +20,7 @@ public class CurrencyConversor implements ActionListener {
     JTextField textFieldInput;
     JTextField textFieldOutput;
     JButton convertButton;
-    String ApiKey = "5c7a3b51d400ced4bcc336ffbd809e94";
+    String ApiKey = "....";
 
     CurrencyConversor(){
 
